@@ -1,0 +1,17 @@
+metrics: runs\antmaze_fixed_collision_10m\metrics.csv
+episodes: 20000
+steps: 10000000
+plot: runs\antmaze_fixed_collision_10m\return_moving_average.png
+
+first_100_mean: -7025.509
+first_100_median: -7516.027
+last_100_mean: -3903.898
+last_100_median: -3084.436
+first_500_mean: -7129.706
+first_500_median: -7397.453
+last_500_mean: -4413.232
+last_500_median: -3942.124
+
+best_episode: episode=217 step=109000 return=-81.725
+worst_episode: episode=16789 step=8395000 return=-14168.456
+final_episode_return: -1655.740

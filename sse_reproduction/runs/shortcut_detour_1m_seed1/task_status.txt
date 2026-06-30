@@ -1,0 +1,2 @@
+﻿started 2026-06-26T20:44:57.1463174+08:00, seed=1, target_training_timesteps=1000000
+finished 2026-06-27T08:50:44.2574347+08:00
